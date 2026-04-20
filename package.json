@@ -3,7 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@syncfusion/ej2-react-grids": "^16.1.24",
+    "@syncfusion/ej2-react-grids": "*",
+    "@syncfusion/ej2-base": "*",
+    "@syncfusion/ej2-data": "*",
+    "@syncfusion/ej2-react-buttons": "*",
+    "@syncfusion/ej2-react-calendars": "*",
+    "@syncfusion/ej2-react-dropdowns": "*",
+    "@syncfusion/ej2-react-inputs": "*",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
