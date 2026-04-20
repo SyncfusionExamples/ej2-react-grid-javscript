@@ -28,6 +28,26 @@ The application is built using React class components and leverages Syncfusionâ€
 
 The Grid component is rendered inside the main App component and is bound to a static data array. Paging is enabled by injecting the Page service, and each column is mapped to a specific data field.
 
-## Reference
+## Running the Application
 
-For more advanced configurations and features, refer to the Syncfusion React Grid documentation.
+Follow these steps to run the application locally:
+
+1. Clone the repository:
+    ```
+    git clone <repo_link>
+    ```
+2. Install the dependencies and run the application:
+    ```
+    npm i
+    npm start
+    ```
+The application will be available at `http://localhost:3000`.
+
+
+## Reference Documentation & Demo Links
+
+- [Syncfusion React Grid Documentation](https://ej2.syncfusion.com/react/documentation/grid/getting-started/)
+- [Paging](https://ej2.syncfusion.com/react/documentation/grid/paging)
+- [React version compatibility](https://ej2.syncfusion.com/react/documentation/upgrade/version-compatibility)
+- [Syncfusion React Grid Online Demos](https://ej2.syncfusion.com/react/demos/#/material/grid/overview)
+- [Syncfusion NPM Package](https://www.npmjs.com/package/@syncfusion/ej2-react-grids)
